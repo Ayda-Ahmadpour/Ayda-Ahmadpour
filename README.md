@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./Banner.png)
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on [viduu AI](https://viduu.ai/)
